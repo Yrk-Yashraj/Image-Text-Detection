@@ -17,7 +17,9 @@ This Python script demonstrates Optical Character Recognition (OCR) using OpenCV
 
 ### Code Execution
 ```python
-# Copy and paste the provided code into your Python environment.
+# **Clone the Repository:**
+   ```bash
+   git clone 'https://github.com/Yrk-Yashraj/Image-Text-Detection.git'
 # Ensure you have the required libraries installed (cv2, easyocr, matplotlib, numpy).
 # Adjust the image path accordingly.
 
